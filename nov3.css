@@ -1,0 +1,10 @@
+#showContent {
+    margin-left: 30px;
+    margin-right: 60px;
+    margin-top: 20px;
+    padding: 25px;
+    border: 2px solid rgb(209, 104, 63);
+    border-radius: 15px;
+    background-color: rgb(209, 187, 155);
+    box-shadow: 4px 6px 5px grey;
+   }
