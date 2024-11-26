@@ -6,14 +6,14 @@ function connect(){
     .then(data => process(data));
 }
 function process(data){
-    // console.log(data);
+    console.log(data);
 
-for (var i=1; i<=data.lenth; i++){
-    console.log("user # ", i, "details-");
-    console.log(data[i-1].name);
-    console.log(data[i-1].username);
-    console.log(data[i-1].email);
-}
+// for (var i=1; i<=data.lenth; i++){
+//     console.log("user # ", i, "details-");
+//     console.log(data[i-1].name);
+//     console.log(data[i-1].username);
+//     console.log(data[i-1].email);
+// }
 }
 
 

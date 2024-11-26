@@ -1,0 +1,16 @@
+.innerDivStyle img {
+    width: 160px; 
+    height: 160px;
+}
+
+.innerDivStyle {
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid rgb(139, 131, 131);
+    background-color: rgb(237, 214, 179);
+}
+
+#displayArea {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
