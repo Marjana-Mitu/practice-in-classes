@@ -1,0 +1,27 @@
+.innerDivStyle img {
+    width: 160px; 
+    height: 160px;
+}
+
+.innerDivStyle {
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid rgb(218, 207, 207);
+    background-color: rgb(218, 210, 200);
+}
+
+#displayArea {
+  display: flex;
+  grid-template-columns: auto;
+}
+.countStyle {
+    font-size: 1.5em; /* Adjust the font size */
+    font-weight: bold; /* Make the text bold */
+    color: #333; /* Set the text color */
+    margin-bottom: 20px; /* Add space below the count */
+    padding: 10px; /* Add padding around the text */
+    background-color: #f0f0f0; /* Light gray background */
+    border: 2px solid #ddd; /* Border around the count */
+    border-radius: 5px; /* Rounded corners */
+    text-align: center; /* Center the text */
+}
